@@ -4,7 +4,6 @@
 
 - CTFer
 - Cyber security enthusiasts
-- Intern at Xiaohongshu Intelligence and Attack and Defense Laboratory.
 - Ordinary members in [SU](https://su-team.cn/about/)
 - Have discovered some CVE with low gold content
 - Currently doing some work related to risk control and terminal defense
