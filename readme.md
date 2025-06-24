@@ -6,5 +6,5 @@
 - Cyber security enthusiasts
 - Now working on security research
 - Ordinary members in [SU](https://su-team.cn/about/)
-- Interested in all aspects of security, such as AWD, penetration, social engineering , code audit, forensics analysis, but all in the initial stage
+- Interested in all aspects of security, such as SAST, penetration, social engineering , code audit, but all in the initial stage
 - [Personal Website](https://fushuling.com/) 
