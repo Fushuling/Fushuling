@@ -1,1 +1,1 @@
-2025年本科毕业后失业至今 | I have been unemployed since graduating with a bachelor's degree in 2025.
+2025年大学毕业后失业至今 | Unemployed since graduating from university in 2025.
